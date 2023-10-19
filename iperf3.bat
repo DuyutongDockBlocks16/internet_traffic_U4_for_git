@@ -1,0 +1,1 @@
+D:\iperf3.exe -c sgp1.iperf.comnet-student.eu
